@@ -10,6 +10,8 @@
 
     <modules>
         <module>EurekaServerTest</module>
-		<module>RibbonTest</module>		
+        <module>EurekaClientTest</module>
+		<module>RibbonTest</module>
+        <module>FeignTest</module>
     </modules>
 </project>

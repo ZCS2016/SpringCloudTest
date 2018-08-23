@@ -9,4 +9,5 @@ public class RibbonTestApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RibbonTestApplication.class, args);
 	}
+
 }
