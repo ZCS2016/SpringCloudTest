@@ -14,5 +14,6 @@
 		<module>RibbonTest</module>
         <module>FeignTest</module>
 		<module>HystrixTest</module>
+        <module>ZuulTest</module>
     </modules>
 </project>
