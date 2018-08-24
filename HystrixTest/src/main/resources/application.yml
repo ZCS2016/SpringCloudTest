@@ -1,6 +1,6 @@
 spring:
   application:
-    name: Feign-Test
+    name: Hystrix-Test
 eureka:
   client:
     service-url:

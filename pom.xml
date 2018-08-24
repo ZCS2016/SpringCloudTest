@@ -13,5 +13,6 @@
         <module>EurekaClientTest</module>
 		<module>RibbonTest</module>
         <module>FeignTest</module>
+		<module>HystrixTest</module>
     </modules>
 </project>

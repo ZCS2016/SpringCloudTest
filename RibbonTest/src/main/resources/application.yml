@@ -1,6 +1,6 @@
 spring:
   application:
-    name: Echo-Client
+    name: Ribbon-Test
 eureka:
   client:
     service-url:
